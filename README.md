@@ -5,7 +5,7 @@ I'm currently working at EducAR Immersive Learning, where I do Unity Development
 I also assist on FrontEnd Development.
 Here we make XR(Virtual Reality and Augmented Reality) games for education.
 
-I'm currently learning React, Next.js and Mobile Development.
+I'm currently learning Next.js and Game Development.
 
 <!--
 **Cafezinhu/Cafezinhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
