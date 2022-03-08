@@ -1,11 +1,10 @@
 ### Hi there 👋
 I'm Aerton, and I love programming.
 
-I'm currently working at EducAR Immersive Learning, where I do Unity Development, BackEnd Development and Networking for Games.
-I also assist on FrontEnd Development.
-Here we make XR(Virtual Reality and Augmented Reality) games for education.
+I'm currently working with Game Development and Networking for Games.
+I also make XR(Virtual Reality and Augmented Reality) projects.
 
-I'm currently learning Next.js and Game Development.
+I'm currently learning TypeScript for 3D and Game Development.
 
 <!--
 **Cafezinhu/Cafezinhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
