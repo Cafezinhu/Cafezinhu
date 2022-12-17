@@ -4,7 +4,7 @@ I'm Aerton, and I love programming.
 I'm currently working with Game Development and Networking for Games.
 I also make XR(Virtual Reality and Augmented Reality) projects.
 
-I'm currently learning TypeScript for 3D and Game Development.
+I'm currently learning Rust and Godot.
 
 <!--
 **Cafezinhu/Cafezinhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
